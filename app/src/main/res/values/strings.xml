@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NestedRecyclerView</string>
+    <string name="offer">Offer</string>
+    <string name="item">Item</string>
+</resources>
