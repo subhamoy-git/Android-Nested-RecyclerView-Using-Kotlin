@@ -5,12 +5,12 @@ Android sample app for shopping screen using multiple recyclerview using kotlin.
 Sample Output Screen
 
 <p float="left">
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen1.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen5.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen2.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen3.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen6.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen4.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen7.png" width="190" />
-  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen8.png" width="190" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen1.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen5.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen2.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen3.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen6.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen4.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen7.png" width="200" />
+  <img src="https://github.com/subhamoy-git/Android-Nested-RecyclerView-Using-Kotlin/blob/master/screen8.png" width="200" />
 </p>
